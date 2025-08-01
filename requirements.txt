@@ -1,0 +1,11 @@
+langchain-groq
+langchain-google-genai
+langchain-community
+PyPDF2
+
+langchain
+chromadb
+tiktoken
+
+ipykernel
+python-dotenv
